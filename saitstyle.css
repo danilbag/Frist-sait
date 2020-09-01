@@ -1,0 +1,73 @@
+h1 {
+   color: rgb(255 255 255);
+   font-style: italic;
+   font-size: 23px;
+   text-transform: uppercase;
+   font-family: 'William', serif;
+   margin-bottom: 0; /*отступ вниз*/
+   margin-top: 0; /*обнулил отступ вверх*/
+   padding-top: 30px; /*сделал отступ внутрь*/
+   font-family: 'William', serif;
+   font-weight: normal;
+   }
+
+
+h2{
+  color: rgb(255 255 255) ;
+  font-style: Arial;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-family:' William', serif;
+  margin-top: 0; /*отступ в верх*/
+  margin-bottom: 24px;
+  font-weight: normal;
+  }
+
+p{
+color: black;
+font-style: Arial;
+}
+
+
+
+.btn{
+ border: none ;
+ display:inline-block;
+ background: black;
+ text-decoration: none;
+ border-radius: 50px;
+ color: skyblue;
+ padding: 5px 20px
+}
+
+li{
+ list-style-type:circle;
+}
+
+body{
+  background-image: url(https://belydom.ru/upload/iblock/a2c/a2c0554c66277ba8c146d0138ecf2ae9.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+
+img{
+  width: 300px;
+  margin-bottom: 100px;
+  border-radius: 400px;
+}
+
+di{
+  heigh: 47%;
+}
+
+ header{
+  background-color: rgba( 112, 186, 172, .6);
+  border-radius: 50px;
+  text-align: center;
+  margin-top: 10px;
+  height: 350px;
+  margin-right: 40px;
+  margin-left: 40px;
+}
